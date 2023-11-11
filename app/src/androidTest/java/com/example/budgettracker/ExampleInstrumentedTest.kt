@@ -1,4 +1,4 @@
-package com.example.budgettracker
+package com.example.walletwatcher
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
