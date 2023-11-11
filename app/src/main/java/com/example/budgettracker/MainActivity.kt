@@ -1,4 +1,4 @@
-package com.example.budgettracker
+package com.example.walletwatcher
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
