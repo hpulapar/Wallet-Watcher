@@ -1,4 +1,4 @@
-package com.example.budgettracker
+package com.example.walletwatcher
 
 import org.junit.Test
 
